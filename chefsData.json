@@ -1,0 +1,50 @@
+[
+    {
+        "id": "chef001",
+        "name": "Pierre Gagnaire",
+        "img-url": "https: //ibb.co/qrPY46K",
+        "years_of_experience": 50,
+        "likes": 3008,
+        "description": "A leading figure in modern French cuisine, Pierre Gagnaire has earned multiple Michelin stars for his eponymous restaurant in Paris. Known for his inventive, boundary-pushing dishes, Gagnaire is often credited with introducing new techniques and flavors to French cooking."
+    },
+    {
+        "id": "chef002",
+        "name": "Yannick Alléno",
+        "img-url": "https: //ibb.co/4S0Gzyz",
+        "years_of_experience": 30,
+        "likes": 1189,
+        "description": "With three Michelin-starred restaurants in Paris and Dubai, Yannick Alléno is one of France's most acclaimed contemporary chefs. He is known for his meticulous attention to detail and his inventive takes on classic French dishes like bouillabaisse and cassoulet."
+    },
+    {
+        "id": "chef003",
+        "name": "Éric Frechon",
+        "img-url": "https: //ibb.co/QC4BZt2",
+        "years_of_experience": 35,
+        "likes": 2543,
+        "description": "The head chef of the legendary Le Bristol hotel in Paris, Éric Frechon has earned numerous accolades for his refined, elegant cuisine. He has earned three Michelin stars for his work at Le Bristol and is known for his focus on seasonal, locally sourced ingredients."
+    },
+    {
+        "id": "chef004",
+        "name": "Anne-Sophie Dubois",
+        "img-url": "https: //ibb.co/H47FCNb",
+        "years_of_experience": 10,
+        "likes": 2781,
+        "description": "A rising star on the French culinary scene, Anne-Sophie Dubois earned her first Michelin star in 2021 for her eponymous restaurant in Lyon. She is known for her inventive, plant-based cuisine that draws on traditional French techniques and flavors."
+    },
+    {
+        "id": "chef005",
+        "name": "Stéphanie Le Quellec",
+        "img-url": "https: //ibb.co/0MPjcH8",
+        "years_of_experience": 20,
+        "likes": 3300,
+        "description": "The head chef of La Scène at the Prince de Galles hotel in Paris, Stéphanie Le Quellec has earned two Michelin stars for her inventive, contemporary French cuisine. She is known for her focus on fresh, seasonal ingredients and her ability to create dishes that are both playful and elegant."
+    },
+    {
+        "id": "chef006",
+        "name": "Adeline Grattard",
+        "img-url": "https: //ibb.co/4KdTm0V",
+        "years_of_experience": 15,
+        "likes": 1557,
+        "description": "The chef-owner of Yam'Tcha in Paris, Adeline Grattard has earned acclaim for her innovative, Asian-inspired takes on classic French dishes. She is known for her meticulous attention to detail and her ability to create dishes that are both surprising and satisfying."
+    }
+]
